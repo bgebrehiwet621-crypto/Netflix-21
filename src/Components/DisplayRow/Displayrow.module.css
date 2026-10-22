@@ -1,0 +1,7 @@
+.mainWrapper{
+    padding-left: 2%;
+    margin-top: -14rem;
+    position: relative;
+    z-index: 2;
+    background-color: #111;
+}
